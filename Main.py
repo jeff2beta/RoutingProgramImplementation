@@ -1,5 +1,4 @@
-# Jeffrey Betancur
-# Student ID: 010841241
+
 import csv
 from _datetime import datetime, timedelta
 
